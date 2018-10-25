@@ -1,0 +1,43 @@
+JobSeeker Registration:
+User Name:
+Email ID:
+Mobile Number:
+Password:
+ReEnter Password:
+Submit:
+I Accept T&C
+Or Login using Google,Facebook
+
+JobSeeker Login:
+UserName/EmailID:
+Password:
+Or Login using Google,Facebook
+Forgot Password
+
+
+
+JobSeeker:
+First Name
+Last Name
+Email
+Phone number
+Gender
+Higher Education
+Citizen
+Current Location
+Preferred Location
+DOB
+Position Role
+Work Status
+Skills
+Areas Of Interest
+Job Category
+Experience: Months & year
+Resume Title
+Upload Resume
+Uploaded Resume View.
+Coverletter
+I agree Terms & Conditions
+Security Code
+
+Submit

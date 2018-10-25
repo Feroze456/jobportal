@@ -1,0 +1,48 @@
+Recruiter:
+Post Date
+Company Logo
+Company Name
+Job Title
+Job Experience
+Job Location
+Job Category
+PayScale/Salary
+Job Skills(textarea)
+Job designation
+Employment type(P/T)
+Employment Job(F/P/Internship)
+Designed Profile
+Last Date
+Company Profile
+Recruiter Name
+Contact Company Name
+Email ID
+Website
+Telephone Number
+--Note T&C
+
+
+Publish Job
+
+
+
+
+
+
+
+Recruiter Registration:
+User Name:
+Email ID:
+Password:
+ReEnter Password:
+Submit:
+
+
+Recruiter Login:
+UserName/EmailID:
+Password:
+
+
+
+
+
